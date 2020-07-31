@@ -1,0 +1,12 @@
+C:\Users\Faggiano\source\repos\ZebraSpoolerControllerFW\ZebraSpoolerControllerFW\obj\Debug\ZebraSpoolerControllerFW.csprojAssemblyReference.cache
+C:\Users\Faggiano\source\repos\ZebraSpoolerControllerFW\ZebraSpoolerControllerFW\obj\Debug\ZebraSpoolerControllerFW.csproj.CoreCompileInputs.cache
+C:\Users\Faggiano\source\repos\ZebraSpoolerControllerFW\ZebraSpoolerControllerFW\bin\Debug\ZebraSpoolerControllerFW.exe.config
+C:\Users\Faggiano\source\repos\ZebraSpoolerControllerFW\ZebraSpoolerControllerFW\bin\Debug\ZebraSpoolerControllerFW.exe
+C:\Users\Faggiano\source\repos\ZebraSpoolerControllerFW\ZebraSpoolerControllerFW\bin\Debug\ZebraSpoolerControllerFW.pdb
+C:\Users\Faggiano\source\repos\ZebraSpoolerControllerFW\ZebraSpoolerControllerFW\obj\Debug\ZebraSpoolerControllerFW.exe
+C:\Users\Faggiano\source\repos\ZebraSpoolerControllerFW\ZebraSpoolerControllerFW\obj\Debug\ZebraSpoolerControllerFW.pdb
+C:\Users\Faggiano\source\repos\ZebraSpoolerControllerFW\ZebraSpoolerControllerFW\bin\Debug\System.Diagnostics.EventLog.dll
+C:\Users\Faggiano\source\repos\ZebraSpoolerControllerFW\ZebraSpoolerControllerFW\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Faggiano\source\repos\ZebraSpoolerControllerFW\ZebraSpoolerControllerFW\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\Faggiano\source\repos\ZebraSpoolerControllerFW\ZebraSpoolerControllerFW\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Faggiano\source\repos\ZebraSpoolerControllerFW\ZebraSpoolerControllerFW\obj\Debug\ZebraSpoolerControllerFW.csproj.CopyComplete
